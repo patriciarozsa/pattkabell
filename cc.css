@@ -1,2 +1,9 @@
-body{background-color: violet;}
+html
+head
+style
+body { background-color: violet;}
+h1 { color: black;
+    text-align: center; }
+    
+
 
